@@ -1,4 +1,4 @@
-## Perform database operations usig Flask
+## Perform database operations using Flask
 
 The file flask_crud connects to the database, and perform basic operations like create table, read, write, update and delete the student data from database. 
 
